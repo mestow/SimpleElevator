@@ -1,5 +1,5 @@
 # Simple elevator
-Simple elevator is a plugin that improves its predecessor plugin "elevator", removes bugs, and adds a few features.
+Simple elevator is a plugin for cuberite that improves its predecessor plugin "elevator", removes bugs, and adds a few features.
 
 ## Installation:
 It is as simple as any other cuberite plugin, drag this folder to the plugins folder and in the plugin configuration file at the bottom of the [plugin] section, put "SimpleElevator=1".
