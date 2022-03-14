@@ -20,3 +20,6 @@ The only thing you have to do is to stand on the iron block, to go up one floor 
 
 # Permissions
 - No permissions required
+
+# Old plugin:
+- https://github.com/MeMuXin/Elevator
