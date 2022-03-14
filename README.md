@@ -11,7 +11,7 @@ Commands:
 
 Create a elevator:
 It is simple, for each floor you must put a structure consisting of an iron block above, and a sea lantern block below, as shown in the photo.
-![CHEESE!](https://i.imgur.com/4ThmyXy.gif)
+![CHEESE!](https://i.imgur.com/K3JaQFQ.png)
 
 Use a elevator:
 The only thing you have to do is to stand on the iron block, to go up one floor you have to jump, and to go down one floor you have to shift.
