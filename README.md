@@ -1,4 +1,4 @@
-# The plguin:
+# Simple elevator:
 Simple elevator is a plugin that improves its predecessor plugin "elevator", removes bugs, and adds a few features.
 
 ## Installation:
